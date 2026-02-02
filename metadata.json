@@ -1,0 +1,5 @@
+{
+  "name": "Générateur de Contrats de Travail",
+  "description": "Une application pour générer des contrats de travail français à partir de modèles prédéfinis. Remplissez simplement un formulaire pour créer et télécharger un document .docx personnalisé.",
+  "requestFramePermissions": []
+}
